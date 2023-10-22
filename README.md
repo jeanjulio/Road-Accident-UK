@@ -30,3 +30,5 @@ El Dataset se puede obtener mediante la ejecucion del siguiente comando:
 Se descargará un archivo comprimido en formato zip que contiene el archivo ".csv", el cual se descomprime posteriormente.
     
     unzip road-accident-united-kingdom-uk-dataset.zip 
+### 3. Video presentacion
+[Entrega 2](https://youtu.be/_azjuCuH0oI)
